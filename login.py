@@ -150,7 +150,7 @@ def main():
 
 	login_url='https://passport.weibo.cn/sso/login'
 	username='13771902647'
-	password='yinhao'
+	password=''
 
 	s=login(login_url,username,password)
 
